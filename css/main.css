@@ -316,7 +316,7 @@ body {
   width: 260px;
 }
 
-@media (max-width:1199px) {
+@media (max-width:991px) {
   .image-column {
     display: none;
   }
