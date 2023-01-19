@@ -182,7 +182,7 @@ body {
 
 .landing .intro p {
   font-size: 19px;
-  line-height: 1.8vh;
+  line-height: 2vh;
 }
 
 /* End landing */
@@ -213,7 +213,7 @@ body {
 }
 
 .features .feat p {
-  line-height: 1.8vh;
+  line-height: 2vh;
   color: #777;
   font-size: 17px;
 }
@@ -293,7 +293,7 @@ body {
 .services .services-content .serv .text p {
   color: #333;
   font-weight: 300;
-  line-height: 1.8vh;
+  line-height: 2vh;
 }
 
 .services .services-content .image {
@@ -354,7 +354,7 @@ body {
 
 .portfolio .portfolio-content .card .info p {
   color: #777;
-  line-height: 1.8vh;
+  line-height: 2vh;
   margin-bottom: 0;
 }
 
@@ -435,7 +435,7 @@ body {
 
 .about .about-content .text p:first-of-type {
   font-weight: bold;
-  line-height: 1.8;
+  line-height: 2vh;
   margin-bottom: 50px;
 }
 
