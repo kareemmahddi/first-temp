@@ -182,7 +182,7 @@ body {
 
 .landing .intro p {
   font-size: 19px;
-/*   line-height: 2vh; */
+  line-height: 2;
 }
 
 /* End landing */
